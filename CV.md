@@ -1,13 +1,13 @@
-Brandon Stewart
-Calgary, Alberta, Canada
-Cybersecurity Graduate | SOC Analyst | DFIR Enthusiast | IT Support Specialist
-GitHub: github.com/nu-genesis
-LinkedIn: https://ca.linkedin.com/in/brandon-stewart-389370133
-Email: bchanstew@gmail.com
-Professional Summary
+## Brandon Stewart
+## Calgary, Alberta, Canada
+## Cybersecurity Graduate | SOC Analyst | DFIR Enthusiast | IT Support Specialist
+## GitHub: github.com/nu-genesis
+## LinkedIn: https://ca.linkedin.com/in/brandon-stewart-389370133
+## Email: bchanstew@gmail.com
+## Professional Summary
 Recent Information Security graduate with prior enterprise IT support experience supporting large-scale business operations within the rail transportation industry. Skilled in cybersecurity operations, Windows/Linux administration, digital forensics, network analysis, and security tooling. Hands-on experience with SIEM concepts, Windows internals, registry analysis, vulnerability assessment, and incident investigation through academic projects, labs, and capture-the-flag events.
 Developed ISOReady, an ISO 27001 application methodology project focused on structured implementation and security governance processes. Passionate about SOC operations, DFIR, threat detection, and enterprise security practices.
-Technical Skills
+## Technical Skills
 Security & Forensics
 Digital Forensics
 Windows Registry Analysis
@@ -18,7 +18,7 @@ Network Traffic Analysis
 Malware Analysis Fundamentals
 Security Governance Concepts
 ISO 27001 Methodologies
-Security Tools
+## Security Tools
 Wireshark
 Burp Suite
 Metasploit
@@ -27,19 +27,19 @@ Sysinternals Suite
 Nmap
 Autopsy
 Volatility
-Operating Systems & Platforms
+## Operating Systems & Platforms
 Windows
 Linux
 Kali Linux
 Parrot OS
 FLARE VM
 SIFT Workstation
-Programming & Scripting
+## Programming & Scripting
 Python
 C
 C++
-Education
-Southern Alberta Institute of Technology
+## Education
+### Southern Alberta Institute of Technology
 Information Security Diploma
 2024 – 2026
 Relevant Coursework:
@@ -51,9 +51,9 @@ Network Security
 Incident Response
 Active Directory Security
 Southern Alberta Institute of Technology
-Finance Diploma
+### Bussiness Administration Finance Diploma
 2015 – 2017
-Professional Experience
+## Professional Experience
 Canadian Pacific Kansas City
 Service Desk Analyst
 2017 – 2022
@@ -63,7 +63,7 @@ Assisted with Active Directory administration and user account support
 Worked within ticketing and incident management workflows in a high-availability operational environment
 Developed strong communication and technical troubleshooting skills supporting end users and business operations
 Gained exposure to enterprise infrastructure, operational security practices, and IT governance processes
-Projects
+## Projects
 ISOReady — ISO 27001 Application Methodology
 Designed a structured methodology project focused on implementing and applying ISO 27001 security principles
 Developed documentation and workflow concepts aligned to information security governance and risk management practices
