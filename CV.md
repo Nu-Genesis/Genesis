@@ -1,6 +1,6 @@
 ## Brandon Stewart
-## Calgary, Alberta, Canada
-## Cybersecurity Graduate | SOC Analyst | DFIR Enthusiast | IT Support Specialist
+Calgary, Alberta, Canada
+Cybersecurity Graduate | SOC Analyst | DFIR Enthusiast | IT Support Specialist
 ## GitHub: github.com/nu-genesis
 ## LinkedIn: https://ca.linkedin.com/in/brandon-stewart-389370133
 ## Email: bchanstew@gmail.com
