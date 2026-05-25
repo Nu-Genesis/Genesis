@@ -54,8 +54,8 @@ Southern Alberta Institute of Technology
 ### Bussiness Administration Finance Diploma
 2015 – 2017
 ## Professional Experience
+### Service Desk Analyst / Service Operations Centre
 Canadian Pacific Kansas City
-Service Desk Analyst
 2017 – 2022
 Provided enterprise technical support for users across a large transportation organization
 Troubleshot Windows systems, user access issues, software incidents, and account-related problems
